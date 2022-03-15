@@ -9,7 +9,7 @@ Download the 1980-2019 csv files and open up the file named "Simcoe_Zooplankton&
 
 R scripts are numbered (1-10) in the order that they are supposed to be used.
 
-The .csv file produced from the subset files (R scripts - 1, 5, 7) must then be manually edited to remove data that do not have 5 (3 or 7) stations per sampling period as well as by combining data points that should fall into a single week.
+The .csv files produced from the subset R scripts (1, 5, 8) must then be manually edited to remove data that do not have 5 (3 or 7) stations per sampling period as well as by combining data points that should fall into a single week.
 
 R scripts 1-4 represent the analysis of the data when 5 stations are included as well as code for statistical tests, final figures, and supplmemental figures.
 
