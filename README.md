@@ -1,5 +1,7 @@
 # Species Portfolio Effects Dominate Seasonal Zooplankton Stabilization Within a Large Temperate Lake
 
+https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3889 
+
 Data for this analysis can be found online (https://data.ontario.ca/dataset/lake-simcoe-monitoring). 
 
 # Data Prepping
